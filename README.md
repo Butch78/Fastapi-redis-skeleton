@@ -3,7 +3,7 @@
 A Fastapi Backend that will communicate inbetween Fastapi & Redis
 
 
-"""
+
 Integration with FastAPI.
 =========================
 
@@ -47,5 +47,4 @@ You might need to enter the following info:
 
     host: redis 
     port: 6379
-
 
